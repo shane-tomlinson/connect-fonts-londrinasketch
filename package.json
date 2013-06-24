@@ -1,0 +1,29 @@
+{
+  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-londrinasketch",
+  "description": "Londrina Sketch font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "londrinasketch-regular"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-londrinasketch",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-londrinasketch"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
